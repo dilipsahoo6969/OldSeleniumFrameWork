@@ -26,5 +26,7 @@ public class ErrorValidationsTest extends BaseTests {
         boolean productFound = cartPage.verifyProductInCart("ZARA COAT 324");
         Assert.assertFalse(productFound);      
     }
+    
+    //This is the command to see the changes in Git hub.
 
 }
