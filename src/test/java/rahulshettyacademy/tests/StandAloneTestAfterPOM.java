@@ -41,4 +41,6 @@ public class StandAloneTestAfterPOM extends BaseTests{
     //This command has been added in develop branch of Rahul. for leaning branches in git hub.
     
     //Now architect in dilip framework added his comment
+    
+  //Now in master branch after merge from develop branch2
 }
